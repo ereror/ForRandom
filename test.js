@@ -1,2 +1,2 @@
 var outword = 'helloworld'
-console.log(outword);
+console.log(outword)
